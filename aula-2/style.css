@@ -1,0 +1,21 @@
+.box{
+    width: 100px;
+    height: 100px;
+    }
+.container{
+    background-color: darkgray;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content:
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
